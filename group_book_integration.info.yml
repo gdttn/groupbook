@@ -1,9 +1,10 @@
 name: Group Book Integration
 type: module
 description: Integrates the contrib Group module with the core Book Module (see readme).
-core: 8.x
-core_version_requirement: ^8 || ^9
+core: 8.x-inf1
+core_version_requirement: ^9 || ^10
 package: Group
+project: drupal
 dependencies:
   - group
   - gnode
