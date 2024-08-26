@@ -9,7 +9,7 @@
     "Book",
     "Module"
   ],
-  "homepage": "https://github.com/gdttn/groupbook-drupal",
+  "homepage": "https://github.com/gdttn/groupbook",
   "license": "GPL-2.0",
   "authors": [
     {
@@ -25,6 +25,6 @@
   ],
   "support": {
     "issues": "https://www.drupal.org/project/issues/groupbook",
-    "source": "https://github.com/gdttn/groupbook-drupal.git"
+    "source": "https://github.com/gdttn/groupbook.git"
   }
 }
