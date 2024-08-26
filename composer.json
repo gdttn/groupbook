@@ -1,0 +1,30 @@
+{
+  "name": "gdttn/groupbook",
+  "description": "Integrates the contrib Group module with the core Book module.  A fork of https://git.drupalcode.org/project/groupbook.git",
+  "type": "drupal-module",
+  "keywords": [
+    "Drupal 9",
+    "Drupal 10",
+    "Group",
+    "Book",
+    "Module"
+  ],
+  "homepage": "https://github.com/gdttn/groupbook-drupal",
+  "license": "GPL-2.0",
+  "authors": [
+    {
+      "name": "G Dutton",
+      "homepage": "https://github.com/gdttn/",
+      "role": "Fork Owner"
+    },
+    {
+      "name": "Joeri Poesen",
+      "homepage": "https://drupal.org/u/jpoesen",
+      "role": "Original Creator"
+    }
+  ],
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/groupbook",
+    "source": "https://github.com/gdttn/groupbook-drupal.git"
+  }
+}
