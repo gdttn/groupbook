@@ -11,7 +11,7 @@
 
 
 ## Introduction
-Integrates the contrib Group module with the core Book module.
+Integrates the contrib Group module with the core (Drupal <= 10.4) or contrib 1.x (Drupal >= 10.4) Book module.
 
 One book can belong to many groups. Without this integration module one would 
 need to manually add each book page to each group, and (re)move each book 
@@ -43,10 +43,10 @@ logging of debug information.
 
 
 ## FAQ
+Q: Has this been tested against the Contrib Book module?
+A: Yes! But only the 1.x branch, which is designed to be compatible.  Watch this space for updates.
 
 
 ## Maintainers
 Original creator:
  * Joeri Poesen (jpoesen) - https://drupal.org/u/jpoesen
-
-
